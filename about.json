@@ -1,0 +1,7 @@
+{
+  "name": "discourse-avatar-guven-seviyesi-ikonu",
+  "component": true,
+  "assets": {
+  	"template": "assets/template.png"
+  }
+}
